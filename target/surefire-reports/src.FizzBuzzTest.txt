@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: src.FizzBuzzTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.083 s <<< FAILURE! - in src.FizzBuzzTest
+initializationError(src.FizzBuzzTest)  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.Exception: Method should_return_Fizz_when_number_only_multiply_of_3() should be public
+
+initializationError(src.FizzBuzzTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method should_return_the_same_number_as_string_when_not_number_multiply_of_3_or_5() should be public
+
+initializationError(src.FizzBuzzTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Exception: Method should_return_Bizz_when_number_only_multiply_of_5() should be public
+
+initializationError(src.FizzBuzzTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Exception: Method should_return_FizzBuzz_when_number_multiply_of_3_and_5() should be public
+
